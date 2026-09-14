@@ -1,4 +1,5 @@
-# Calculadora
+# Calculadora básica en Python
+# Permite realizar operaciones matemáticas básicas
 
 def sumar(a, b):
     return a + b
